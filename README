@@ -1,0 +1,14 @@
+Secure Password Manager.
+
+
+Usage : python password_manager.py
+
+
+Features :
+
+1. Let's you store multiple users.
+2. Strong Encryption
+
+Yet to be done :
+
+Integration with websites
